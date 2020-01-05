@@ -1,5 +1,5 @@
 # springmvcredirectviewexample
-Spring MVC Redirect Views Example 
+Spring MVC Redirect Views Example.
 In this example, we look at the three ways to redirect views in Spring MVC
 
 # visit
